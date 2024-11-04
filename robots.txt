@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ucaqiinu.github.io/YMe/sitemap_index.txt
+Sitemap: https://ucaqiinu.github.io/kLh/sitemap_index.txt
+Sitemap: https://ucaqiinu.github.io/msk/sitemap_index.txt
+Sitemap: https://ucaqiinu.github.io/oPW/sitemap_index.txt
